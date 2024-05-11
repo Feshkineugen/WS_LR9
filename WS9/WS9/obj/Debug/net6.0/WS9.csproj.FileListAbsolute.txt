@@ -1,0 +1,14 @@
+C:\Users\12\source\repos\WS9\WS9\bin\Debug\net6.0\WS9.exe
+C:\Users\12\source\repos\WS9\WS9\bin\Debug\net6.0\WS9.deps.json
+C:\Users\12\source\repos\WS9\WS9\bin\Debug\net6.0\WS9.runtimeconfig.json
+C:\Users\12\source\repos\WS9\WS9\bin\Debug\net6.0\WS9.dll
+C:\Users\12\source\repos\WS9\WS9\bin\Debug\net6.0\WS9.pdb
+C:\Users\12\source\repos\WS9\WS9\obj\Debug\net6.0\WS9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12\source\repos\WS9\WS9\obj\Debug\net6.0\WS9.AssemblyInfoInputs.cache
+C:\Users\12\source\repos\WS9\WS9\obj\Debug\net6.0\WS9.AssemblyInfo.cs
+C:\Users\12\source\repos\WS9\WS9\obj\Debug\net6.0\WS9.csproj.CoreCompileInputs.cache
+C:\Users\12\source\repos\WS9\WS9\obj\Debug\net6.0\WS9.dll
+C:\Users\12\source\repos\WS9\WS9\obj\Debug\net6.0\refint\WS9.dll
+C:\Users\12\source\repos\WS9\WS9\obj\Debug\net6.0\WS9.pdb
+C:\Users\12\source\repos\WS9\WS9\obj\Debug\net6.0\WS9.genruntimeconfig.cache
+C:\Users\12\source\repos\WS9\WS9\obj\Debug\net6.0\ref\WS9.dll
